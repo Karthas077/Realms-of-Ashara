@@ -1,0 +1,13 @@
+html,body{
+margin:0;
+padding:0;
+}
+
+.invisible{
+  visibility: hidden;
+  width:0;
+}
+
+.inforealm{
+    float:right
+}
